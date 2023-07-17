@@ -142,5 +142,36 @@
 - 목록으로클릭시 게시판으로 이동
 <img width="600" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/2d05eb86-840b-4810-9b52-bce5c3f09ed5">
 
+<br>
+<br>
+
+### :pushpin: 게시글 수정
+- 작성자는 수정불가
+- 수정완료 클릭시 수정
+<img width="600" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/06d0e49b-bf1a-4c79-8d6b-8534c653f928">
+<img width="600" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/e5480922-209d-4eda-abf5-5ffa3e94b990">
+
+<br>
+<br>
+
+### :pushpin: 게시글 삭제
+- 삭제시 삭제알림창 확인후 삭제진행
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/fb038f0f-56b2-4ce8-8eb8-038ffc6bfbce">
+
+
+<br>
+<br>
+
+### :pushpin: 댓글 작성 & 삭제
+- 비동기처리
+- 댓글 작성완료 알림창
+- 댓글 삭제확인 알림창
+- 삭제처리 완료
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/2570116b-c455-49ab-bbf9-860c04476163">
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/f067dbcc-bcbe-41a6-b933-3c789a16acfd">
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/b972a4fa-738d-49b4-866f-e9bf5c870735">
+
+
+
 
 
