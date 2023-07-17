@@ -173,5 +173,29 @@
 
 
 
+<br>
+<br>
+
+### :pushpin: 회원가입 & 로그인
+- 회원가입처리
+- 회원가입한 아이디로 로그인처리
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/75ce9dc7-e035-4bd8-b66a-5aab75b5f38d">
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/ff26d0ae-263f-465d-b613-931afbfa10a5">
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/a8f3c463-c920-49a5-b1a8-f482821f0301">
+
+<br>
+<br>
+
+### :pushpin: 마이페이지 회원정보 & 회원수정
+- 회원정보 확인
+- 수정시 이름만 변경가능 
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/2c7d0b4a-df31-468c-a0a9-a518289b5000">
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/7a41c11c-b3f4-40b9-b8c6-a967047a3c0a">
+<img width="700" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/25386927-eb1d-4222-a137-21ceee3bc844">
+
+
+
+
+
 
 
