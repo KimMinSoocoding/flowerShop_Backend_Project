@@ -120,10 +120,13 @@
 
 ### :pushpin: 검색기능
 - 제목, 내용, 작성자 카테고리별로 검색기능 구현 (중복체크가능)
-- '제목' 카테고리로 '꽃' 검색한 결과 
-- '내용' 카테고리로 '댓글' 검색한 결과 <br>
-  <img width="300" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/3b0036ca-cd30-4c18-be2a-7f5c8c684165"> <br>
-  <img width="300" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/ef999e2b-e72f-420f-9264-83ed866f0199">
+- '제목' 카테고리로 '꽃' 검색한 결과
+- '내용' 카테고리로 '댓글' 검색한 결과
+- '제목', '내용' (중복체크) 카테고리로 '꽃'을 검색한 결과<br>
+  <img width="300" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/3b0036ca-cd30-4c18-be2a-7f5c8c684165"><br>
+  <img width="300" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/ef999e2b-e72f-420f-9264-83ed866f0199"><br>
+  <img width="300" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/af4f2b3d-195a-48df-98b9-fb012c20221b">
+
 
 <br>
 <br>
@@ -195,6 +198,13 @@
 
 
 
+## :heavy_plus_sign: 아쉬웠던 점 / 추가하고싶은 기능 
+### :disappointed: 아쉬웠던점 
+- :heavy_check_mark: 개인프로젝트 이외에 수업과 팀원들과 같이하는 세미 프로젝트를 병행하며 진행하여 UI의 미흡한(디자인) 부분과 유효성검사를 완벽히 시행하지 못한점이 매우 아쉽다
+
+### :heavy_plus_sign: 추가하고싶은 기능 
+- :heavy_check_mark: 파일업로드 기능 : 게시물에 파일 및 사진 업로드 기능 
+- :heavy_check_mark: 대댓글 기능 : 댓글에 댓글을 달수있는 기능
 
 
 
