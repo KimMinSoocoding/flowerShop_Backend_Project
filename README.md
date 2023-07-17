@@ -52,128 +52,46 @@
 <br>
 
 ## :bulb: 목차
-0. [AWS 배포 줍깅주소]
-1. [프로젝트 명]
-2. [개발기간]
-3. [맴버구성]
-4. [요구사항 정리 엑셀파일]
-5. [개발 프로그램]
-6. [프로젝트 설명]
-7. [UI/UX 페이퍼 프로토타입]
-8. [추천경로 데이터 마이닝 작업과정]
-9. 각 페이지별 기능 구성 및 모바일/컴퓨터 UI 화면
-10. 본인파트(챌린지) 시연
-11. 아쉬웠던 점 / 추가하고싶은 기능 
 
 <br>
 
-## :ticket: AWS 배포 줍깅주소
-- https://jubging.sionms.co.kr/
-- 이슈사항 : 웹 소켓으로 인해 https 보안문제로 인한 ssl키 발급하는 과정의 이슈가 있었음 (문제해결)
+## :ticket: AWS 배포주소
+- https://pf2.sionms.co.kr/
 
 <br>
 
 ## :runner: 프로젝트 명
-나와 지구의 건강을 위한 플로깅 - `줍깅`
-<br>
-:earth_americas: 직접 제작한 줍깅 마스코트 로고 :earth_americas:
-<br>
-<br>
-
-<img width="200" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/255764ea-bd58-4809-9eda-cabb9423982f"> <img width="200" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/d86cdfcf-d5c8-4c5a-81eb-f5586899d917">
-<br>
-<img width="700" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/5f53680c-fdb8-431b-a638-4c41332ce486">
-
+꽃집을 컨셉으로한 사이트 제작 
 
 </br>
 
 
 ## 🕰️ 개발 기간
-:calendar: 23.05.22 - 23.06.30일 총 5주간 진행
-* 1주차 : 자료선정 및 자료수집
-* 2주차 : 요구사항 분석과 설계
-* 3~4주차 : 기능구현
-* 5주차 : 리뷰 및 테스팅
+:calendar: 23.03.02 - 23.03.20일 총 3주간 진행
+* 1주차 : 디자인 구상 UI 제작
+* 2주차 : 백엔드 기능구현
+* 3주차 : 백엔드 기능구현, AWS 배포
 
 </br>
 
 ### 🧑‍🤝‍🧑 맴버구성
- - 팀장  : 천은경 - `친구맺기, 커뮤니티 게시판, 회원:관리자`
- - 팀원1 : 이시화 - `데이터마이닝, 추천경로, 플로깅`
- - 팀원2 : 김민수 - `모임형 챌린지 기능, 챌린지 맴버, 챌린지 일정, 일정참가자` 
- - 팀원3 : 이재원 - `포인트 및 뱃지, 리워드`
- - 팀원4 : 박연재 - `회원 및 권한, 시큐리티, 소셜로그인, 메일인증`
+김민수(본인)
 
 <br>
 
-## :checkered_flag: 협업관리 - 애자일 스프린트 
-:sound: 원활한 협업을 위한 규칙 설정 
-* 1일 1회의 - 데일리 스크럼
-* Git커밋 후 보고 및 커밋 메시지 공유
-* 문서작성 필수 - 양식 통일
-* 문제상황 발생 1일 이상 지속 시, 보고 후 함께해결
-* 테스트 코드 반드시 작성
-<br>
-<img width="400" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/18647da1-9482-4588-9018-34c77376cfb2">
-
-
-</br>
-
-### :floppy_disk:  요구사항정리 엑셀파일
-[줍깅_요구사항정의서.xlsx](https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/files/12026079/_.xlsx)
-
-
-</br>
 
 ### :computer: 개발 프로그램
 - DBeaver
-- React <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 - JAVA <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 - Spring <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-- SpringBoot / SpringSecurity <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
 - MariaDB <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 - HTMl / CSS / JavaScript <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 - Postman  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 - aws / Nginx / ApacheTomcat <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-- github / sourcetree <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" />
-
-<br>
-<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/b40c6b5f-6e5c-49f5-8352-c4d98b11a3df">
-<br>
-<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/4db654a4-a39d-4894-b931-1b261a678858">
 
 <br>
 
-## 시작 가이드
 
-### Requirements
-
-Backend
-
-- [Java version 1.8](https://www.oracle.com/java/technologies/downloads/#java17)
-- SpringBoot 2.7.14(SNAPSHOT)
-- Gradle - Groovy
-
-Frontend
-
-- node.js with npm
-
-### Installation
-
-Backend
-
-```bash
-$ git clone https://github.com/plogging-project/Plogging_Project_Backend.git
-```
-
-Frontend
-
-```bash
-$ git clone https://github.com/plogging-project/Plogging_Project_Frontend.git
-```
-
-<br>
 
 ## :laughing: 프로젝트 설명
 ### :pushpin: 주제선정 동기
