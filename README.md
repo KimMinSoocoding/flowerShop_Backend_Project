@@ -62,6 +62,10 @@
 
 ## :runner: 프로젝트 명
 꽃집을 컨셉으로한 사이트 제작 
+<br>
+<br>
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/2e40ef97-1aa3-408b-9039-85ad9aa4d6ae">
+
 
 </br>
 
@@ -105,3 +109,38 @@
 - :iphone: `카테고리별 검색 기능` : 제목, 내용, 작성자등의 카테고리를 설정하여 원하는 정보를 빠르게 검색할 수 있습니다. 이를 통해 사용자들은 관심 있는 주제에 대한 정보를 쉽게 찾을 수 있습니다.
 - :two_men_holding_hands: `페이징 처리` : 게시물 목록이나 검색 결과 등이 많은 경우, 페이징 처리를 통해 사용자들이 원하는 정보를 보다 편리하게 탐색할 수 있습니다.
 - :cop: `로그인 및 회원가입` : 용자들은 개인 계정을 만들고 로그인하여 사이트의 모든 기능을 이용할 수 있습니다. 회원가입을 통해 꽃집 커뮤니티에 가입하고 다른 사용자들과 교류할 수 있습니다.
+
+## :star: 프로젝트 기능 시연
+### :pushpin: 게시판 페이지
+- 게시글 갯수에 따라 페이징처리
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/f323f253-05f8-4511-bfa2-8da84ee2de52">
+
+<br>
+<br>
+
+### :pushpin: 검색기능
+- 제목, 내용, 작성자 카테고리별로 검색기능 구현 (중복체크가능)
+- '제목' 카테고리로 '꽃' 검색한 결과 
+- '내용' 카테고리로 '댓글' 검색한 결과 <br>
+  <img width="300" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/3b0036ca-cd30-4c18-be2a-7f5c8c684165"> <br>
+  <img width="300" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/ef999e2b-e72f-420f-9264-83ed866f0199">
+
+<br>
+<br>
+
+### :pushpin: N개씩 보기
+- 5개씩 보기 결과
+- 10개씩 보기 결과 <br>
+  <img width="600" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/d3e06d41-82c9-4d6f-9169-73e88490b448"><br>
+  <img width="600" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/9e4bc747-6536-4e6a-830a-131e0b838202">
+
+<br>
+<br>
+
+### :pushpin: 게시글 작성
+- 작성자는 수정불가
+- 목록으로클릭시 게시판으로 이동
+<img width="600" alt="image" src="https://github.com/KimMinSoocoding/flowerShop_Backend_Project/assets/113892151/2d05eb86-840b-4810-9b52-bce5c3f09ed5">
+
+
+
